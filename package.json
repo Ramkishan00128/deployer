@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node scripts/app.js",
-    "build": "next build",
     "vercel-build": "echo build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
