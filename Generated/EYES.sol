@@ -620,7 +620,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 // File: BigEyes.sol
 
 
-pragma solidity 0.8.19;
+pragma solidity 0.8.18;
 
 
 contract EYES is ERC20, Ownable {
